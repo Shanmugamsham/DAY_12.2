@@ -7,6 +7,8 @@
     background-size:cover;
     font-family:"Roboto";
     color:white;
+    position:relative;
+    
 
 }
 .mai-heading{
@@ -145,7 +147,7 @@
 }
 .bg-ss{
     background-color:black;
-    padding-left:30px;
+    
 }
 
 
